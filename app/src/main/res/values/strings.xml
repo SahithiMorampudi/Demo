@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Welcome to Android</string>
+    <string name="app_name">Welcome</string>
+    <string name="user_name">User Name</string>
+    <string name="pass_word">Password</string>
+    <string name="button">Sign in</string>
+    <string name="todo">TODO</string>
+    <string name="tod">TODO</string>
 </resources>

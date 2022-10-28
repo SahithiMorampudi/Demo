@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="height">60dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="width_of_text">300dp</dimen>
+    <dimen name="width_2">350dp</dimen>
+    <dimen name="width_3">750dp</dimen>
+    <dimen name="image_width">60dp</dimen>
+    <dimen name="image_height">60dp</dimen>
+</resources>
