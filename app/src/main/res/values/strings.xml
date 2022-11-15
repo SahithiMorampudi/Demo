@@ -5,4 +5,8 @@
     <string name="button">Sign in</string>
     <string name="todo">TODO</string>
     <string name="tod">TODO</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo1">TODO</string>
+    <string name="image1">TODO</string>
+    <string name="image2">TODO</string>
 </resources>
